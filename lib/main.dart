@@ -16,5 +16,6 @@ void main() async {
     debugShowCheckedModeBanner: false,
     theme: lightTheme,
     darkTheme: darkTheme,
+    i letrally fucked up
   ));
 }
